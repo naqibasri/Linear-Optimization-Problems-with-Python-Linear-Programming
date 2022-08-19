@@ -13,4 +13,4 @@ References
 1. https://www.youtube.com/watch?v=E8WlydM8uvU
 2. https://www.youtube.com/watch?v=oAFZuDJ0wqc
 3. Mixed integer problem: https://www.youtube.com/watch?v=ATd0MZQGN7I
-   Used when the the decision variable must be integers.
+   Used when the the decision variable must be integers
